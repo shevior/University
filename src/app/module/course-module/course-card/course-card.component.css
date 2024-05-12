@@ -1,0 +1,32 @@
+.mat-expansion-panel-header-description {
+    flex-wrap: wrap;
+}
+
+.mat-expansion-panel-header {
+    height: 10%;
+    padding: 16px;
+}
+
+.mat-panel-title {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+}
+
+.nextWeek {
+    border: 2px solid red;
+}
+
+mat-panel-title img {
+    height: 80px;
+}
+
+.pipe-icon {
+    margin-left: 5%;
+}
+
+@media (max-width: 600px) {
+    b {
+        margin-right: 10px;
+    }
+}
